@@ -1,0 +1,6 @@
+{
+  "name": "Egypt Explorer",
+  "description": "Explore Egypt's iconic monuments, temples, museums, and governorates with interactive guides, Google Maps directions, and AI translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
